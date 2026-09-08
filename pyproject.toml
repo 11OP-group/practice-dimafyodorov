@@ -1,0 +1,20 @@
+[project]
+name = "practice-dimafyodorov"
+version = "0.1.0"
+description = "Репозиторий с практиками."
+readme = "README.md"
+authors = [
+    { name = "DimaFyodorov", email = "63671334+DimaFyodorov@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+temp-test = "temp_test.__main__:main"
+
+[tool.uv.build-backend]
+module-name = ["temp_test"]
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"
