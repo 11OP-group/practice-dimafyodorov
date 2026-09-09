@@ -152,7 +152,8 @@ activemq-data/
 
 # Environments
 .env
-.envrc
+# save for me
+# .envrc
 .venv
 env/
 venv/
