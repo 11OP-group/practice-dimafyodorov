@@ -3,7 +3,7 @@
 Репозиторий с практиками.
 
 ## Запуск
-Скачать проект.
+Скачать репозиторий и перейти в него.
 ```
 git clone https://github.com/11OP-group/practice-dimafyodorov.git
 cd practice-dimafyodorov
