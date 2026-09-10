@@ -2,8 +2,14 @@
 
 Репозиторий с практиками.
 
-## Запуск
-Скачать репозиторий и перейти в него.
+## Практические работы
+
+1. Практическое занятие №1. «Знакомство со средой программирования» 
+https://docs.google.com/document/d/1EgP2QFN5AO2WeKBq9XfQts4F5-E-bkwhwUvHr0xNdGA/edit?usp=sharing
+
+
+
+## Запуск тестового проекта
 ```
 git clone https://github.com/11OP-group/practice-dimafyodorov.git
 cd practice-dimafyodorov
