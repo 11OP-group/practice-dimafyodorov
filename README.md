@@ -13,6 +13,8 @@ https://docs.google.com/document/d/1EgP2QFN5AO2WeKBq9XfQts4F5-E-bkwhwUvHr0xNdGA/
 Папка ./practice-4/
 5. Практическое занятие №5. «Составление программ линейной структуры» \
 Папка ./practice-5/
+6. Практическое занятие №6. «Составление программ разветвляющейся структуры» \
+Папка ./practice-6/
 
 ### Работы во время лекций
 1. [Программирование ветвлений. Условный оператор.](https://docs.google.com/presentation/d/17O_sw9pKg4DerPtiEK_MtVsGhI_LTtFX97hYZIE31D0/edit?usp=sharing) \
