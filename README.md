@@ -15,6 +15,8 @@ https://docs.google.com/document/d/1EgP2QFN5AO2WeKBq9XfQts4F5-E-bkwhwUvHr0xNdGA/
 Папка ./practice-5/
 6. Практическое занятие №6. «Составление программ разветвляющейся структуры» \
 Папка ./practice-6/
+7. Практическое занятие №7. «Программа с применением оператора множественного выбора» \
+Папка ./practice-7/
 
 ### Работы во время лекций
 1. [Программирование ветвлений. Условный оператор.](https://docs.google.com/presentation/d/17O_sw9pKg4DerPtiEK_MtVsGhI_LTtFX97hYZIE31D0/edit?usp=sharing) \
@@ -22,6 +24,8 @@ https://docs.google.com/document/d/1EgP2QFN5AO2WeKBq9XfQts4F5-E-bkwhwUvHr0xNdGA/
    - pre_task_1 - Оценка по баллам
    - pre_task_2 - Задача: поход в клуб
    - task_{1..5} - Задачи в конце
+2. Алгоритмы с множественным выбором. Оператор match-case. \
+Папка ./pre-practice-7/
 
 
 ## Запуск тестового проекта
