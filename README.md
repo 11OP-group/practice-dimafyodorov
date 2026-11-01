@@ -24,8 +24,6 @@
 
 ### Работы во время лекций
 
-1. [Программирование ветвлений. Условный оператор.](https://docs.google.com/presentation/d/17O_sw9pKg4DerPtiEK_MtVsGhI_LTtFX97hYZIE31D0/edit?usp=sharing)
-
 1. [Программирование ветвлений. Условный оператор.](https://docs.google.com/presentation/d/17O_sw9pKg4DerPtiEK_MtVsGhI_LTtFX97hYZIE31D0/edit?usp=sharing) \
    Папка ./pre-practice-6/
 
