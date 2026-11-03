@@ -2,7 +2,6 @@ import random
 import sys
 
 number = random.randint(1, 10)
-print(number)
 
 try:
     for _ in range(3):
